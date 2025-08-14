@@ -11,9 +11,9 @@ Insights and recommendations are provided on the following key areas:
 - **Health Outcomes:** Are emergency visits, hospitalisations, and deaths increasing or decreasing?
 -	**Cause Attribution:** Which pollutants are most associated with asthma, cardiovascular, or respiratory conditions?
 
-An interactive dashboard can be downloaded [here]
+An interactive dashboard can be downloaded [here](https://github.com/Shivi2599/Projects/blob/main/Air%20Quality/Air%20Quality%20Index.pbix).
 
-The SQL queries to clean, prepare, and organise data are [here]
+The SQL queries to clean, prepare, and organise data are [here](https://github.com/Shivi2599/Projects/blob/main/Air%20Quality/Air%20Quality%20Data%20Cleaning.sql)
 
 ## Data Structure
 
