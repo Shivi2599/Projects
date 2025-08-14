@@ -17,5 +17,11 @@ The SQL queries to clean, prepare, and organise data are [here](https://github.c
 
 ## Data Structure
 
+The Air Quality database structure, as shown, consists of one table with a total row count of 188,622 records.
 
+Before the analysis, various checks were conducted for quality control and to familiarise myself with the dataset. 
+
+## Executive Summary
+
+<img width="1270" height="719" alt="image" src="https://github.com/user-attachments/assets/5a7a3d81-3ecd-450f-9c91-e7cdeba54354" />
 
