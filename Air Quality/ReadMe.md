@@ -27,10 +27,12 @@ Before the analysis, various checks were conducted for quality control and to fa
 
 Over the past 15 years, New York City has seen a gradual improvement in air quality, with levels of PM2.5 and NO₂ steadily declining. In 2008, the average PM2.5 concentration hovered around 11 µg/m³; today, it stands closer to 7.92 µg/m³, marking a 35.44% drop. Nitrogen dioxide (NO₂), another harmful pollutant, has also seen a consistent decrease, thanks in part to environmental regulations and cleaner energy initiatives.
 
-Below is the overview page from the Power BI dashboard. More examples are included throughout the report. 
+Below is the overview page from the Power BI dashboard. More examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/Shivi2599/Projects/blob/main/Air%20Quality/Air%20Quality%20Index.pbix).
 
 
 <img width="1270" height="719" alt="Screenshot 2025-08-14 152050" src="https://github.com/user-attachments/assets/dfde8d13-767d-4ad4-accd-77daf91e1cdd" />
+
+
 
 
 But while the skies may be clearer, the health data tells a more complicated story.
@@ -38,7 +40,11 @@ But while the skies may be clearer, the health data tells a more complicated sto
 Emergency room visits, hospitalisations, and deaths attributed to air pollution remain alarmingly high in several neighbourhoods. These communities face disproportionate exposure to harmful pollutants, particularly during summer months when ozone levels spike sharply.
 
 
+
+
 <img width="1487" height="832" alt="Screenshot 2025-08-19 142634" src="https://github.com/user-attachments/assets/6b4a9759-1b98-4bac-bd73-ab51a3828311" />
+
+
 
 
 This analysis highlights not only how far we've come, but also how much work remains. Cleaner air must reach every ZIP code, not just the average.
