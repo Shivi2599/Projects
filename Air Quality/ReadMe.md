@@ -30,7 +30,7 @@ Over the past 15 years, New York City has seen a gradual improvement in air qual
 Below is the overview page from the Power BI dashboard. More examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/Shivi2599/Projects/blob/main/Air%20Quality/Air%20Quality%20Index.pbix).
 
 
-<img width="1270" height="719" alt="Screenshot 2025-08-14 152050" src="https://github.com/user-attachments/assets/dfde8d13-767d-4ad4-accd-77daf91e1cdd" />
+<img width="1482" height="836" alt="Screenshot 2025-08-21 162734" src="https://github.com/user-attachments/assets/677ab39b-3b17-4014-872c-210aca0c19f6" />
 
 
 
@@ -42,8 +42,7 @@ Emergency room visits, hospitalisations, and deaths attributed to air pollution 
 
 
 
-<img width="1487" height="832" alt="Screenshot 2025-08-19 142634" src="https://github.com/user-attachments/assets/6b4a9759-1b98-4bac-bd73-ab51a3828311" />
-
+<img width="1482" height="832" alt="image" src="https://github.com/user-attachments/assets/087742c1-8898-45ca-9d08-aa5bead8d67f" />
 
 
 
